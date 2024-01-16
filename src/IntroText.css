@@ -1,0 +1,35 @@
+.intro-text {
+    text-align: left;
+    color: black;
+    margin-left: 10vh;
+    width: 100%;
+  }
+  
+  .title {
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 600; /* semi-bold */
+    white-space: nowrap;
+  }
+  
+  .subtitle {
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 400; /* regular */
+  }
+  
+  .see-more {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+
+  .see-more {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    text-decoration: none;
+    display: inline-block;
+  }
